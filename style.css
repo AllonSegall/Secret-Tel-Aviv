@@ -37,8 +37,43 @@ nav li a {
   margin: 0 auto;
   padding-top: 70px;
 }
+
 .hero{
   background: url(http://www.elevationacademy.co/wp-content/uploads/2016/02/Tel-Aviv.jpg)  no-repeat center fixed;
   background-size: cover;
   height: 700px;
+}
+
+.food h1{
+  margin: 0;
+  font-family:"Open Sans";
+  text-align: center;
+  font-weight: bold;
+  padding: 25px;
+}
+
+.food h3{
+    text-align: center;
+  font-weight: bold;
+  font-family: 'Open Sans';
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.food img{
+  width: 100%;
+}
+
+.column {
+  float: left;
+  width: 33.3%;
+}
+
+.column-inner{
+  padding: 20px;
+}
+
+.img{
+  width: 200px;
+  height: 230px;
 }
